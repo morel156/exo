@@ -8,3 +8,10 @@ index2.py: c'est un programme qui demande à l'utilisteur d'entrée une couleur 
 
 
 index3.py: c'est un programme qui demande à l'utilisteur d'entrée deux nombre , ensuite de calculer le PPCM et le PPCD de ces deux nombres et d'afficher leurs réponses respectifs. Puis dire si les deux nombres sont pair ou impair .
+
+
+index4.py: c'est un programme qui permet de calculer le PGCD de deux nombres entrés au clavier par l'utilisateur et d'afficher la réponse
+
+
+#TECHNOLOGIE UTILISÉ:
+Python
